@@ -1,0 +1,10 @@
+[project]
+name = "fx-impact-navigator"
+version = "0.1.0"
+description = "Interactive FX exposure and cash-flow analytics prototype"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
