@@ -88,11 +88,9 @@ See `docs/academic_report.md`, `docs/process_log.md`, and `docs/ai_use_declarati
 
 ## Security and deployment
 
-Do not enter confidential company, customer, counterparty, or personal financial data into a public demonstration deployment. No API keys are required for the current feature set. The database is local and is not a durable shared store on Streamlit Community Cloud. Use CSV export to preserve academic data.
+Do not enter confidential company, customer, counterparty, or personal financial data into a public demonstration deployment. No API keys are required for the current feature set. The database is local and is not a durable shared store on Streamlit Community Cloud. Use CSV export to preserve academic data.Repository: [fx-impact-navigator](https://github.com/vihaanpratapahuja17-star/fx-impact-navigator) (public).
 
-Repository: [fx-impact-navigator](https://github.com/vihaanpratapahuja17-star/fx-impact-navigator) (private).
-
-The local SQLite file, virtual environment, secret files, and generated caches are excluded from the repository. The illustrative sample CSV contains no real customer data. The app is deployed from the private GitHub repository's `main` branch with `app.py` as its entry point. The dashboard is publicly viewable by anyone with its URL; the GitHub source repository remains private.
+The local SQLite file, virtual environment, secret files, and generated caches are excluded from the repository. The illustrative sample CSV contains no real customer data. The app is deployed from the public GitHub repository's `main` branch with `app.py` as its entry point. Both the dashboard and source repository are publicly viewable.
 
 Hosted application URL: https://fx-impact-navigator-iulmtsjzj4hgzdyxi9xpwc.streamlit.app/.
 
