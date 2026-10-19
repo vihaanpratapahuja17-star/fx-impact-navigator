@@ -1,0 +1,5 @@
+transaction_id,description,counterparty,currency,amount,transaction_type,invoice_date,due_date,budget_rate,settlement_rate,status,category,notes,hedge_pct,forward_rate,transaction_cost
+ILL-USD-001,Illustrative machinery invoice,Sample Supplier A,USD,250000,payable,2026-10-01,2026-11-05,85.00,,Open,Imports,Illustrative only,0,,0
+ILL-EUR-002,Illustrative export receipt,Sample Customer B,EUR,70000,receivable,2026-10-03,2026-11-12,94.00,,Open,Exports,Illustrative only,0,,0
+ILL-GBP-003,Illustrative service invoice,Sample Supplier C,GBP,50000,payable,2026-10-05,2026-11-20,108.00,,Open,Operations,Illustrative only,0,,0
+ILL-JPY-004,Illustrative components invoice,Sample Supplier D,JPY,10000000,payable,2026-10-08,2026-12-10,0.58,,Open,Imports,Illustrative only,0,,0
