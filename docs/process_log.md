@@ -22,3 +22,4 @@
 
 - Jamovi/Excel replication and matching-output evidence are deferred at the user's request.
 - The project source, tests, illustrative CSV, and academic documents were uploaded to a private GitHub repository on 2026-10-19. The local SQLite database, virtual environment, and generated caches were excluded. Deployed to Streamlit Community Cloud from the private repository's `main` branch with `app.py` as the entry point. Streamlit installed dependencies from `requirements.txt`, started the server, and the hosted dashboard loaded successfully at https://fx-impact-navigator-iulmtsjzj4hgzdyxi9xpwc.streamlit.app/.
+- Enabled public access to the Streamlit dashboard on 2026-10-19. Anyone with the hosted URL can open it; the GitHub repository remains private. Streamlit Community Cloud may sleep the app after 12 hours without traffic, so uninterrupted 24/7 availability is not guaranteed.
