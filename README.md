@@ -94,8 +94,6 @@ Repository: [fx-impact-navigator](https://github.com/vihaanpratapahuja17-star/fx
 
 The local SQLite file, virtual environment, secret files, and generated caches are excluded from the repository. The illustrative sample CSV contains no real customer data. Hosted deployment is pending.
 
-Repository URL: pending publication.
-
 Hosted application URL: pending deployment.
 
 ## Future updates
