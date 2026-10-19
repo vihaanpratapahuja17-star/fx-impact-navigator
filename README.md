@@ -92,9 +92,12 @@ Do not enter confidential company, customer, counterparty, or personal financial
 
 Repository: [fx-impact-navigator](https://github.com/vihaanpratapahuja17-star/fx-impact-navigator) (private).
 
-The local SQLite file, virtual environment, secret files, and generated caches are excluded from the repository. The illustrative sample CSV contains no real customer data. The app is deployed from the private GitHub repository's `main` branch with `app.py` as its entry point.
+The local SQLite file, virtual environment, secret files, and generated caches are excluded from the repository. The illustrative sample CSV contains no real customer data. The app is deployed from the private GitHub repository's `main` branch with `app.py` as its entry point. The dashboard is publicly viewable by anyone with its URL; the GitHub source repository remains private.
 
 Hosted application URL: https://fx-impact-navigator-iulmtsjzj4hgzdyxi9xpwc.streamlit.app/.
+
+
+Streamlit Community Cloud can put an app to sleep after 12 hours without traffic. A visitor can wake it by opening the app, but the free hosting tier does not guarantee uninterrupted 24/7 availability. Public apps may also be indexed by search engines. Do not put confidential data in the dashboard.
 
 ## Future updates
 
