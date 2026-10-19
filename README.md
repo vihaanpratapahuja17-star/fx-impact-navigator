@@ -92,9 +92,9 @@ Do not enter confidential company, customer, counterparty, or personal financial
 
 Repository: [fx-impact-navigator](https://github.com/vihaanpratapahuja17-star/fx-impact-navigator) (private).
 
-The local SQLite file, virtual environment, secret files, and generated caches are excluded from the repository. The illustrative sample CSV contains no real customer data. Hosted deployment is pending.
+The local SQLite file, virtual environment, secret files, and generated caches are excluded from the repository. The illustrative sample CSV contains no real customer data. The app is deployed from the private GitHub repository's `main` branch with `app.py` as its entry point.
 
-Hosted application URL: pending deployment.
+Hosted application URL: https://fx-impact-navigator-iulmtsjzj4hgzdyxi9xpwc.streamlit.app/.
 
 ## Future updates
 
